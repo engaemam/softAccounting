@@ -1,0 +1,1 @@
+<input type="text" readonly name="price_b[]"  value="{{$ItemsId}}" class="form-control" id="No2" placeholder="سعر الماده" required>
